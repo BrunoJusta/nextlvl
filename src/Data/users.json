@@ -1,0 +1,17 @@
+{
+  "users": [
+    { "name": "User Fixe", "userId": "01" },
+    {
+      "name": "Bruno Justa",
+      "userId": "bruno_justa",
+      "bg": "/bg_profile.png",
+      "ava": "/ava_bruno.jpg",
+      "badge": "/badge.png",
+      "months": "03",
+      "days": "07",
+      "hours": "27",
+      "storymode": "57",
+      "undred": "24"
+    }
+  ]
+}
