@@ -4,11 +4,11 @@ import { FiChevronRight } from "react-icons/fi";
 
 const ProfileLink = ({ title, isBig }) => {
   return (
-    <NavLink to="/" className="mx-4 py-4 border-b-2 border-neutral-700">
+    <NavLink to="/" className="mx-4 py-4 border-b-2 border-bglighter">
       <div className=" flex justify-between">
-        <h3 className="text-white font-bold text-xl">{title}</h3>
-        <NavLink to="/">
-          <p className="text-blue-300 font-medium text-lg">
+        <h3 className="text-white font-semibold text-lg">{title}</h3>
+        <NavLink to="/" className="self-center">
+          <p className="text-white font-medium text-lg">
             <FiChevronRight />
           </p>
         </NavLink>

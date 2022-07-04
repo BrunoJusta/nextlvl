@@ -1,6 +1,13 @@
 import "./App.css";
 import { Route, Routes, HomeLayoutRoute } from "react-router-dom";
-import { Home, Profile } from "./pages";
+import {
+  Home,
+  Profile,
+  GameProfile,
+  Releases,
+  Wishlist,
+  GameCollection,
+} from "./pages";
 import { Nav } from "./components/Nav";
 
 function App() {
@@ -9,6 +16,10 @@ function App() {
       <Routes>
         <Route path="*" element={<Home />} />
         <Route path="/:userId" element={<Profile />} />
+        <Route path="/releases" element={<Releases />} />
+        <Route path="/wishlist" element={<Wishlist />} />
+        <Route path="/collection" element={<GameCollection />} />
+        <Route path="/game/:gameId" element={<GameProfile />} />
       </Routes>
       <Nav />
     </div>

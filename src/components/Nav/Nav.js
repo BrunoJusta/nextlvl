@@ -10,12 +10,12 @@ import { BiHomeAlt, BiUser } from "react-icons/bi";
 const Nav = () => {
   let location = useLocation();
   return (
-    <div className="bg-slate-800 p-4 fixed bottom-0 z-50 w-full flex justify-between">
+    <div className=" bg-bglighter p-4 fixed bottom-0 z-50 w-full flex justify-between">
       <NavLink
-        to="/"
+        to="/collection"
         className={
           location.pathname === "/collection"
-            ? "text-3xl text-blue-500"
+            ? "text-3xl text-bluer"
             : "text-3xl text-white"
         }
       >
@@ -25,7 +25,7 @@ const Nav = () => {
         to="/"
         className={
           location.pathname === "/search"
-            ? "text-3xl text-blue-500"
+            ? "text-3xl text-bluer"
             : "text-3xl text-white"
         }
       >
@@ -34,18 +34,18 @@ const Nav = () => {
       <NavLink
         to="/"
         className={
-          location.pathname === "/"
-            ? "text-3xl text-blue-500"
+          location.pathname === "/" || location.pathname === "/releases"
+            ? "text-3xl text-bluer"
             : "text-3xl text-white"
         }
       >
         <BiHomeAlt />
       </NavLink>
       <NavLink
-        to="/"
+        to="/wishlist"
         className={
           location.pathname === "/wishlist"
-            ? "text-3xl text-blue-500"
+            ? "text-3xl text-bluer"
             : "text-3xl text-white"
         }
       >
@@ -57,8 +57,9 @@ const Nav = () => {
           location.pathname !== "/" &&
           location.pathname !== "/collection" &&
           location.pathname !== "/wishlist" &&
+          location.pathname !== "/releases" &&
           location.pathname !== "search"
-            ? "text-3xl text-blue-500"
+            ? "text-3xl text-bluer"
             : "text-3xl text-white"
         }
       >

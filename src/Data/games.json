@@ -2,64 +2,80 @@
   "games": [
     {
       "title": "Guardians of the Galaxy",
-      "platforms": ["Playstation 4", "Playstation 4", "Switch"],
+      "gameId": "guardians_of_the_galaxy",
+      "platforms": "Playstation 5",
       "cover": "/gotg.jpg",
+      "bg": "/bg_profile.png",
       "desc1": "The plot of Marvel's Guardians of the Galaxy takes place several years after a massive interstellar war that raged across the universe.",
       "desc2": "Among those looking to survive in the Andromeda galaxy are the newly 'heroes for hire', the Guardians of the Galaxy, who all hope to make quick money during their adventurous wanderings around the galaxy. However, while attempting to capture a beast for a wealthy collector, a seemingly harmless bet between two team members inadvertently sets in motion a series of catastrophic events that threaten the peace of the fragile universe unless the team takes responsibility for their actions and eradicates the threat.",
       "trailer": "https://www.youtube.com/watch?v=VdMiY9MEeMk&ab_channel=PlayStation"
     },
     {
       "title": "Guardians of the Galaxy",
-      "platforms": ["Playstation 4", "Playstation 4", "Switch"],
+      "gameId": "guardians_of_the_galaxy2",
+      "platforms": "Playstation 5",
       "cover": "/gotg.jpg",
+      "bg": "/bg_profile.png",
       "desc1": "The plot of Marvel's Guardians of the Galaxy takes place several years after a massive interstellar war that raged across the universe.",
       "desc2": "Among those looking to survive in the Andromeda galaxy are the newly 'heroes for hire', the Guardians of the Galaxy, who all hope to make quick money during their adventurous wanderings around the galaxy. However, while attempting to capture a beast for a wealthy collector, a seemingly harmless bet between two team members inadvertently sets in motion a series of catastrophic events that threaten the peace of the fragile universe unless the team takes responsibility for their actions and eradicates the threat.",
       "trailer": "https://www.youtube.com/watch?v=VdMiY9MEeMk&ab_channel=PlayStation"
     },
     {
       "title": "Guardians of the Galaxy",
-      "platforms": ["Playstation 4", "Playstation 4", "Switch"],
+      "gameId": "guardians_of_the_galaxy3",
+      "platforms": "Playstation 4",
       "cover": "/gotg.jpg",
+      "bg": "/bg_profile.png",
       "desc1": "The plot of Marvel's Guardians of the Galaxy takes place several years after a massive interstellar war that raged across the universe.",
       "desc2": "Among those looking to survive in the Andromeda galaxy are the newly 'heroes for hire', the Guardians of the Galaxy, who all hope to make quick money during their adventurous wanderings around the galaxy. However, while attempting to capture a beast for a wealthy collector, a seemingly harmless bet between two team members inadvertently sets in motion a series of catastrophic events that threaten the peace of the fragile universe unless the team takes responsibility for their actions and eradicates the threat.",
       "trailer": "https://www.youtube.com/watch?v=VdMiY9MEeMk&ab_channel=PlayStation"
     },
     {
       "title": "Guardians of the Galaxy",
-      "platforms": ["Playstation 4", "Playstation 4", "Switch"],
+      "gameId": "guardians_of_the_galaxy4",
+      "platforms": "Playstation 4",
       "cover": "/gotg.jpg",
+      "bg": "/bg_profile.png",
       "desc1": "The plot of Marvel's Guardians of the Galaxy takes place several years after a massive interstellar war that raged across the universe.",
       "desc2": "Among those looking to survive in the Andromeda galaxy are the newly 'heroes for hire', the Guardians of the Galaxy, who all hope to make quick money during their adventurous wanderings around the galaxy. However, while attempting to capture a beast for a wealthy collector, a seemingly harmless bet between two team members inadvertently sets in motion a series of catastrophic events that threaten the peace of the fragile universe unless the team takes responsibility for their actions and eradicates the threat.",
       "trailer": "https://www.youtube.com/watch?v=VdMiY9MEeMk&ab_channel=PlayStation"
     },
     {
       "title": "Guardians of the Galaxy",
-      "platforms": ["Playstation 4", "Playstation 4", "Switch"],
+      "gameId": "guardians_of_the_galaxy5",
+      "platforms": "Playstation 4",
       "cover": "/gotg.jpg",
+      "bg": "/bg_profile.png",
       "desc1": "The plot of Marvel's Guardians of the Galaxy takes place several years after a massive interstellar war that raged across the universe.",
       "desc2": "Among those looking to survive in the Andromeda galaxy are the newly 'heroes for hire', the Guardians of the Galaxy, who all hope to make quick money during their adventurous wanderings around the galaxy. However, while attempting to capture a beast for a wealthy collector, a seemingly harmless bet between two team members inadvertently sets in motion a series of catastrophic events that threaten the peace of the fragile universe unless the team takes responsibility for their actions and eradicates the threat.",
       "trailer": "https://www.youtube.com/watch?v=VdMiY9MEeMk&ab_channel=PlayStation"
     },
     {
       "title": "Guardians of the Galaxy",
-      "platforms": ["Playstation 4", "Playstation 4", "Switch"],
+      "gameId": "guardians_of_the_galaxy6",
+      "platforms": "Switch",
       "cover": "/gotg.jpg",
+      "bg": "/bg_profile.png",
       "desc1": "The plot of Marvel's Guardians of the Galaxy takes place several years after a massive interstellar war that raged across the universe.",
       "desc2": "Among those looking to survive in the Andromeda galaxy are the newly 'heroes for hire', the Guardians of the Galaxy, who all hope to make quick money during their adventurous wanderings around the galaxy. However, while attempting to capture a beast for a wealthy collector, a seemingly harmless bet between two team members inadvertently sets in motion a series of catastrophic events that threaten the peace of the fragile universe unless the team takes responsibility for their actions and eradicates the threat.",
       "trailer": "https://www.youtube.com/watch?v=VdMiY9MEeMk&ab_channel=PlayStation"
     },
     {
       "title": "Guardians of the Galaxy",
-      "platforms": ["Playstation 4", "Playstation 4", "Switch"],
+      "gameId": "guardians_of_the_galaxy7",
+      "platforms": "Switch",
       "cover": "/gotg.jpg",
+      "bg": "/bg_profile.png",
       "desc1": "The plot of Marvel's Guardians of the Galaxy takes place several years after a massive interstellar war that raged across the universe.",
       "desc2": "Among those looking to survive in the Andromeda galaxy are the newly 'heroes for hire', the Guardians of the Galaxy, who all hope to make quick money during their adventurous wanderings around the galaxy. However, while attempting to capture a beast for a wealthy collector, a seemingly harmless bet between two team members inadvertently sets in motion a series of catastrophic events that threaten the peace of the fragile universe unless the team takes responsibility for their actions and eradicates the threat.",
       "trailer": "https://www.youtube.com/watch?v=VdMiY9MEeMk&ab_channel=PlayStation"
     },
     {
       "title": "Guardians of the Galaxy",
-      "platforms": ["Playstation 4", "Playstation 4", "Switch"],
+      "gameId": "guardians_of_the_galaxy8",
+      "platforms": "Switch",
       "cover": "/gotg.jpg",
+      "bg": "/bg_profile.png",
       "desc1": "The plot of Marvel's Guardians of the Galaxy takes place several years after a massive interstellar war that raged across the universe.",
       "desc2": "Among those looking to survive in the Andromeda galaxy are the newly 'heroes for hire', the Guardians of the Galaxy, who all hope to make quick money during their adventurous wanderings around the galaxy. However, while attempting to capture a beast for a wealthy collector, a seemingly harmless bet between two team members inadvertently sets in motion a series of catastrophic events that threaten the peace of the fragile universe unless the team takes responsibility for their actions and eradicates the threat.",
       "trailer": "https://www.youtube.com/watch?v=VdMiY9MEeMk&ab_channel=PlayStation"
@@ -68,24 +84,30 @@
   "bigames": [
     {
       "title": "Guardians of the Galaxy",
+      "gameId": "star_wars",
       "platforms": ["Playstation 4", "Playstation 4", "Switch"],
       "cover": "/sw.jpg",
+      "bg": "/bg_profile.png",
       "desc1": "The plot of Marvel's Guardians of the Galaxy takes place several years after a massive interstellar war that raged across the universe.",
       "desc2": "Among those looking to survive in the Andromeda galaxy are the newly 'heroes for hire', the Guardians of the Galaxy, who all hope to make quick money during their adventurous wanderings around the galaxy. However, while attempting to capture a beast for a wealthy collector, a seemingly harmless bet between two team members inadvertently sets in motion a series of catastrophic events that threaten the peace of the fragile universe unless the team takes responsibility for their actions and eradicates the threat.",
       "trailer": "https://www.youtube.com/watch?v=VdMiY9MEeMk&ab_channel=PlayStation"
     },
     {
       "title": "Guardians of the Galaxy",
+      "gameId": "star_wars2",
       "platforms": ["Playstation 4", "Playstation 4", "Switch"],
       "cover": "/sw.jpg",
+      "bg": "/bg_profile.png",
       "desc1": "The plot of Marvel's Guardians of the Galaxy takes place several years after a massive interstellar war that raged across the universe.",
       "desc2": "Among those looking to survive in the Andromeda galaxy are the newly 'heroes for hire', the Guardians of the Galaxy, who all hope to make quick money during their adventurous wanderings around the galaxy. However, while attempting to capture a beast for a wealthy collector, a seemingly harmless bet between two team members inadvertently sets in motion a series of catastrophic events that threaten the peace of the fragile universe unless the team takes responsibility for their actions and eradicates the threat.",
       "trailer": "https://www.youtube.com/watch?v=VdMiY9MEeMk&ab_channel=PlayStation"
     },
     {
       "title": "Guardians of the Galaxy",
+      "gameId": "star_wars3",
       "platforms": ["Playstation 4", "Playstation 4", "Switch"],
       "cover": "/sw.jpg",
+      "bg": "/bg_profile.png",
       "desc1": "The plot of Marvel's Guardians of the Galaxy takes place several years after a massive interstellar war that raged across the universe.",
       "desc2": "Among those looking to survive in the Andromeda galaxy are the newly 'heroes for hire', the Guardians of the Galaxy, who all hope to make quick money during their adventurous wanderings around the galaxy. However, while attempting to capture a beast for a wealthy collector, a seemingly harmless bet between two team members inadvertently sets in motion a series of catastrophic events that threaten the peace of the fragile universe unless the team takes responsibility for their actions and eradicates the threat.",
       "trailer": "https://www.youtube.com/watch?v=VdMiY9MEeMk&ab_channel=PlayStation"

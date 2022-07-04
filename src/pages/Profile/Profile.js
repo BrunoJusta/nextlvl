@@ -5,6 +5,7 @@ import users from "../../Data/users.json";
 import { GamesHScroll, ProfileLink } from "../../components";
 import { FiChevronRight } from "react-icons/fi";
 import { Header } from "../../components/Header";
+import { GamesGrid } from "../../components/GamesGrid";
 
 const Profile = () => {
   let { userId } = useParams();
@@ -12,10 +13,9 @@ const Profile = () => {
   useEffect(() => {
     setCurrentUser(users.users.find((u) => u.userId === userId));
   }, []);
-  console.log(currentUser.bg);
 
   return (
-    <>
+    <div className=" pb-24">
       <div className="desktop text-white">This only works for mobile</div>
       <div className="mobile w-full flex flex-col justify-center align-middle text-center">
         <Header
@@ -66,7 +66,7 @@ const Profile = () => {
         <ProfileLink title={"Followers"} />
         <ProfileLink title={"Following"} />
       </div>
-    </>
+    </div>
   );
 };
 
