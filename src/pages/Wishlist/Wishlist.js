@@ -26,7 +26,7 @@ const Wishlist = (props) => {
 
       <NavLink
         to="/"
-        className="fixed right-4 p-4 mb-12 bg-stroke rounded-md text-white text-xl"
+        className="fixed right-4 p-4 mb-32 bg-stroke rounded-md text-white text-xl"
       >
         <MdAddBox />
       </NavLink>
