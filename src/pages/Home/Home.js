@@ -6,7 +6,7 @@ import { GamesHScroll } from "../../components";
 
 const Home = (props) => {
   return (
-    <div className="mobile w-full flex flex-col justify-center align-middle text-center">
+    <div className="mobile w-full flex flex-col pb-10 justify-center align-middle text-center">
       <div className="bg-slate-800 p-8 mb-4 px-4">
         <input
           className="w-full px-4 py-2 rounded-sm"
