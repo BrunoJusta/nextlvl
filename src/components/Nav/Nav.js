@@ -10,7 +10,7 @@ import { BiHomeAlt, BiUser } from "react-icons/bi";
 const Nav = () => {
   let location = useLocation();
   return (
-    <div className=" bg-bglighter p-4 fixed bottom-0 z-50 w-full flex justify-between">
+    <div className="mobile bg-bglighter p-4 fixed bottom-0 z-50 w-full flex justify-between">
       <NavLink
         to="/collection"
         className={
@@ -22,7 +22,7 @@ const Nav = () => {
         <MdOutlineCollectionsBookmark />
       </NavLink>
       <NavLink
-        to="/"
+        to="/search"
         className={
           location.pathname === "/search"
             ? "text-3xl text-bluer"
@@ -58,7 +58,9 @@ const Nav = () => {
           location.pathname !== "/collection" &&
           location.pathname !== "/wishlist" &&
           location.pathname !== "/releases" &&
-          location.pathname !== "search"
+          location.pathname !== "/favorites" &&
+          location.pathname.toLowerCase().indexOf("game") === -1 &&
+          location.pathname !== "/search"
             ? "text-3xl text-bluer"
             : "text-3xl text-white"
         }

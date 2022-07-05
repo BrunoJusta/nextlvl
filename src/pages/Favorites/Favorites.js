@@ -2,10 +2,9 @@ import logo from "../../logo.svg";
 import React from "react";
 import { NavLink } from "react-router-dom";
 import users from "../../Data/users.json";
-import { GamesHScroll } from "../../components";
-import { GamesGrid } from "../../components/GamesGrid";
+import { GamesGrid, GamesList } from "../../components";
 import { MdArrowBack, MdFilterAlt, MdAddBox } from "react-icons/md";
-const Wishlist = (props) => {
+const Favorites = (props) => {
   return (
     <div className="mobile w-full flex flex-col pb-24 justify-center align-middle text-center">
       <div className="bg-bglighter py-8 mb-4 p-4 flex ">
@@ -15,23 +14,18 @@ const Wishlist = (props) => {
           </div>
         </NavLink>
         <h3 className="w-full text-white font-bold self-center text-2xl ">
-          Wishlist
+          Favorites
         </h3>
-        <div className="p-4 bg-bluer rounded-md text-white text-xl">
-          <MdFilterAlt />
-        </div>
+        <NavLink to="/addfavorites">
+          <div className="p-4 bg-bluer rounded-md text-white text-xl">
+            <MdAddBox />
+          </div>
+        </NavLink>
       </div>
 
       <GamesGrid />
-
-      <NavLink
-        to="/"
-        className="fixed right-4 p-4 mb-12 bg-stroke rounded-md text-white text-xl"
-      >
-        <MdAddBox />
-      </NavLink>
     </div>
   );
 };
 
-export default Wishlist;
+export default Favorites;

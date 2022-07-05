@@ -1,6 +1,5 @@
 {
   "users": [
-    { "name": "User Fixe", "userId": "01" },
     {
       "name": "Bruno Justa",
       "userId": "bruno_justa",
@@ -12,6 +11,42 @@
       "hours": "27",
       "storymode": "57",
       "undred": "24"
+    },
+    {
+      "name": "João Vasconcelos",
+      "userId": "joao_vasconcelos",
+      "bg": "/bg_cb4.png",
+      "ava": "/ava_jony.jpg",
+      "badge": "/badge.png",
+      "months": "01",
+      "days": "03",
+      "hours": "31",
+      "storymode": "33",
+      "undred": "34"
+    },
+    {
+      "name": "Rita Lobo",
+      "userId": "rita_lobo",
+      "bg": "/bg_hfw.png",
+      "ava": "/ava_rita.jpg",
+      "badge": "/badge.png",
+      "months": "01",
+      "days": "02",
+      "hours": "12",
+      "storymode": "31",
+      "undred": "12"
+    },
+    {
+      "name": "Madalena Gomes",
+      "userId": "madalena_gomes",
+      "bg": "/bg_rec.png",
+      "ava": "/ava_mada.jpg",
+      "badge": "/badge.png",
+      "months": "00",
+      "days": "03",
+      "hours": "30",
+      "storymode": "10",
+      "undred": "2"
     }
   ]
 }

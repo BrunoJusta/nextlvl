@@ -18,13 +18,15 @@ const GameProfile = () => {
         name={currentGame.title}
         ava={currentGame.cover}
         isGame={true}
+        rating={currentGame.rating}
+        platforms={currentGame.platforms}
       />
 
       <div className="text-white p-4 my-4 text-sm">
         <p>{currentGame.desc1}</p>
         <iframe
           className="w-full h-52 my-8"
-          src="https://www.youtube.com/embed/3PnAnIT4f68"
+          src={currentGame.trailer}
           title="YouTube video player"
           frameborder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"

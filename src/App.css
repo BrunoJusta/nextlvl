@@ -13,8 +13,21 @@
   }
 }
 
-.fxdBtn {
-  -webkit-backface-visibility: hidden;
+.mobile {
+  display: none;
+}
+.desktop {
+  display: flex;
+  height: 80vh;
+}
+
+@media only screen and (max-width: 480px) {
+  .mobile {
+    display: flex;
+  }
+  .desktop {
+    display: none;
+  }
 }
 
 .App-header {

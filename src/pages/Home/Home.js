@@ -17,11 +17,9 @@ const Home = (props) => {
 
       <GamesHScroll title={"Newest Releases"} isBig={true} url={"/releases"} />
 
-      <GamesHScroll title={"Popular Games"} />
+      <GamesHScroll title={"Popular Games"} url={"/search"} />
 
-      <GamesHScroll title={"Most Played"} />
-
-      <GamesHScroll title={"Your Activity"} />
+      <GamesHScroll title={"Most Played"} url={"/search"} />
     </div>
   );
 };
