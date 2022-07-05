@@ -21,7 +21,7 @@ const GameCollection = (props) => {
 
       <NavLink
         to="/"
-        className="fixed right-4 p-4 mb-32 bg-stroke rounded-md text-white text-xl"
+        className="fxdBtn fixed right-4 p-4 mb-32 bg-stroke rounded-md text-white text-xl"
       >
         <MdAddBox />
       </NavLink>
